@@ -28,7 +28,7 @@
     }
     
     .nd_logo {
-        grid-area: 1 / 2 / span 3 / span 4 !important;
+        grid-area: 1 / 3 / span 3 / span 4 !important;
     }
     
     .nd_logo img {

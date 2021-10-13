@@ -21,10 +21,6 @@
     grid-area: 86 / 1 / span 22 / span 48 !important;
 }
 
-.hero_button {
-    max-width: 210px !important;
-}
-
 /* Extra Large */
 @media (min-width: 1200px) { 
     .hero .styled.outer-container {

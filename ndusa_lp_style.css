@@ -199,6 +199,14 @@
       align-items: center !important;
     }
     
+    .hero-button-1 {
+        display: none !important;
+    }
+    
+    .hero-button-2 {
+        display: none !important;
+    }
+    
     
     .hero {
         min-height: 420px !important;

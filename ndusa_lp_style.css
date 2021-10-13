@@ -191,7 +191,7 @@
     }
     
 .hero-heading {
-      grid-area: 3/ 5 / auto / span 35 !important;
+      grid-area: 3/ 4 / auto / span 35 !important;
     }
     
   .hero-heading .label-container {

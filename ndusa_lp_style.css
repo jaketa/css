@@ -227,8 +227,8 @@
     
     .product-card {
         grid-area: auto / 4 / auto / span 42 !important;
-        min-height: 130px !important;
-        max-height: 130px !important;
+        min-height: 200px !important;
+        max-height: 200px !important;
         margin-bottom: 25px !important;
     }
     
@@ -242,9 +242,6 @@
         font-size: 18px !important;
     }
     
-    .product-card-title .label-container span {
-        text-align: left !important;
-    }
     
     .product-card-description {
         min-height: 50px !important;
@@ -257,9 +254,6 @@
         font-weight: 400 !important;
     }
     
-    .product-card-description .label-container span {
-        text-align: left !important;
-    }
     
     .product-card-button-mobile {
     display: block !important;

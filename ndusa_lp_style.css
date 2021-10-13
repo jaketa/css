@@ -27,7 +27,7 @@
 }
 
 /* Extra Large */
-@media (min-width: 1200px) { 
+@media (min-width: 1441px) { 
     .hero .styled.outer-container {
         background-position: 100% 35% !important;
     }

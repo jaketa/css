@@ -164,6 +164,10 @@
 
 @media  (max-width: 991px) { 
     
+    .top-bar-cta .label-container {
+        font-size: 18px !important;
+    }
+    
     .Mobile_Footer_Container {
         display: block;
     }

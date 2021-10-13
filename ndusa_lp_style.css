@@ -27,11 +27,15 @@
 }
 
 .top-bar-cta .label-container {
-        font-size: 21px !important;
+        font-size: 14px;
     }
 
 /* Extra Large */
 @media (min-width: 1441px) { 
+    .top-bar-cta .label-container {
+        font-size: 21px !important;
+    }
+    
     .hero .styled.outer-container {
         background-position: 100% 35% !important;
     }

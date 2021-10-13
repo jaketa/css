@@ -165,10 +165,6 @@
 
 @media  (max-width: 991px) { 
     
-    .top-bar-cta .label-container {
-        font-size: 14px !important;
-    }
-    
     .Mobile_Footer_Container {
         display: block;
     }
@@ -181,6 +177,10 @@
 
 /* Small & Extra Small */
 @media (max-width: 767px) { 
+    
+  .top-bar-cta .label-container {
+        font-size: 14px !important;
+    }  
 
   .nd_logo {
     grid-area: 1 / 3 / span 3 / span 15 !important;

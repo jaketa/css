@@ -26,6 +26,10 @@
     margin: auto;
 }
 
+.top-bar-cta .label-container {
+        font-size: 21px !importantl
+    }
+
 /* Extra Large */
 @media (min-width: 1441px) { 
     .hero .styled.outer-container {

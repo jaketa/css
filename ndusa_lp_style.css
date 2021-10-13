@@ -207,6 +207,10 @@
         display: none !important;
     }
     
+    .mobile-button span {
+        font-size: 14px !important;
+    }
+    
     
     .hero {
         min-height: 420px !important;

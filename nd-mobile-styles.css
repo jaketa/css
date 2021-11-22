@@ -20,6 +20,10 @@
     display: none;
 }
 
+.Mobile-Featured-Loan-Container {
+    display: none;
+}
+
 /* No media query necessary for xs breakpoint as it's effectively @media (min-width: 0) */
 
 /* X-Small devices (portrait phones, less than 576px)  */
@@ -59,6 +63,10 @@
     }
     
     .Mobile-Hero-Container_Home {
+        display: grid !important;
+    }
+    
+    .Mobile-Featured-Loan-Container {
         display: grid !important;
     }
 }

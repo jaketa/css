@@ -20,7 +20,7 @@
     display: none;
 }
 
-.Mobile-Featured-Loan-Container {
+.Mobile-Feature-Container {
     display: none;
 }
 
@@ -66,7 +66,7 @@
         display: grid !important;
     }
     
-    .Mobile-Featured-Loan-Container {
+    .Mobile-Feature-Container {
         display: grid !important;
     }
 }

@@ -32,7 +32,7 @@
         grid-area: 1 / 1 / span 4 / span 48 !important;
     }
     
-    .Hero-Container {
+    .Hero-Container_Home {
         min-height: 300px !important;
         max-height: 300px !important;
     }

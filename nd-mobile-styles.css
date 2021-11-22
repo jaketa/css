@@ -66,6 +66,10 @@
         display: grid !important;
     }
     
+    .Desktop-Feature-Container {
+        display: none;
+    }
+    
     .Mobile-Feature-Container {
         display: grid !important;
     }

@@ -1,5 +1,9 @@
 /* NewDayUSA.com Mobile Styling */
 /* Why subtract .02px? Browsers don’t currently support range context queries, so we work around the limitations of min- and max- prefixes and viewports with fractional widths (which can occur under certain conditions on high-dpi devices, for instance) by using values with higher precision. */
+.Desktop-Navigation {
+    font-size: 0.88rem;
+}
+
 .Mobile-Navigation {
     display: none;
 }

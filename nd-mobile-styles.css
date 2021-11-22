@@ -8,6 +8,10 @@
     display: none;
 }
 
+.Desktop-Navigation {
+    font-size: 1rem;
+}
+
 .Mobile-Navigation {
     display: none;
 }

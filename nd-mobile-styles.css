@@ -1,9 +1,6 @@
 /* NewDayUSA.com Mobile Styling */
 /* Why subtract .02px? Browsers don’t currently support range context queries, so we work around the limitations of min- and max- prefixes and viewports with fractional widths (which can occur under certain conditions on high-dpi devices, for instance) by using values with higher precision. */
 
-.Mobile-Navigation {
-    display: none;
-}
 
 /* No media query necessary for xs breakpoint as it's effectively @media (min-width: 0) */
 
@@ -23,11 +20,6 @@
         display: none !important;
     }
     
-    .Navigation {
-        max-height: 80px !important;
-        min-height: 80px !important;
-    }
-    
     .Desktop-Navigation {
         display: none !important;
     }
@@ -40,9 +32,8 @@
         grid-area: 1 / 1 / span 4 / span 48 !important;
     }
     
-    .Hero-Container_Home {
-        min-height: 300px !important;
-        max-height: 300px !important;
+    .Desktop-Hero-Container_Home {
+        display: none !important;
     }
 }
 

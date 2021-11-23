@@ -32,6 +32,11 @@
     display: none;
 }
 
+.Mobile-Trustpilot-Carousel {
+    border-radius: 6px !important;
+    display: none;
+}
+
 /* No media query necessary for xs breakpoint as it's effectively @media (min-width: 0) */
 
 /* X-Small devices (portrait phones, less than 576px)  */
@@ -95,6 +100,10 @@
     
     .Desktop-Review-Container {
         display: none !important;
+    }
+    
+    .Mobile-Trustpilot-Carousel {
+        display: grid !important;
     }
     
     .Mobile-CTA-Container {

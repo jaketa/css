@@ -32,7 +32,7 @@
     display: none;
 }
 
-.Mobile-Trustpilot-Carousel-Container {
+.Mobile-Review-Container {
     display: none;
 }
 
@@ -105,7 +105,7 @@
         display: none !important;
     }
     
-    .Mobile-Trustpilot-Carousel-Container {
+    .Mobile-Review-Container {
         display: grid !important;
     }
     

@@ -96,8 +96,10 @@
         bottom: 0 !important;
         z-index: 99999999999999 !important;
         width: 100% !important;
-        height: 60px !important;
     }
+    
+    .CTA-Button {
+        bottom: 10px !important;
 }
 
 /* Large devices (desktops, less than 1200px)  */

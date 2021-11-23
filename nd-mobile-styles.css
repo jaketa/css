@@ -32,6 +32,10 @@
     display: none;
 }
 
+.Mobile-Trustpilot-Carousel-Container {
+    display: none;
+}
+
 .Mobile-Trustpilot-Carousel {
     border-radius: 6px !important;
 }
@@ -99,6 +103,10 @@
     
     .Desktop-Review-Container {
         display: none !important;
+    }
+    
+    .Mobile-Trustpilot-Carousel-Container {
+        display: grid !important;
     }
     
     .Mobile-CTA-Container {

@@ -101,6 +101,15 @@
     
     .CTA-Button {
         bottom: 10px !important;
+    }
+    
+    .Desktop-Footer-Container {
+        display: none !important;
+    }
+        
+    .Desktop-Socket-Container {
+        display: none !important;
+    }
 }
 
 /* Large devices (desktops, less than 1200px)  */

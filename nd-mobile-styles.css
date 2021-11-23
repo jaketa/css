@@ -93,6 +93,10 @@
         display: none !important;
     }
     
+    .Desktop-Review-Container {
+        display: none !important;
+    }
+    
     .Mobile-CTA-Container {
         display: grid !important;
         position: fixed !important;

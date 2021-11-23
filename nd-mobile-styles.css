@@ -88,14 +88,16 @@
     
     .Desktop-Spacer {
         display: none !important;
-        }
+    }
+    
     .Mobile-CTA-Container {
-    display: grid !important;
+        display: grid !important;
         position: fixed !important;
         bottom: 0 !important;
         z-index: 99999999999999 !important;
         width: 100% !important;
         height: 60px !important;
+    }
 }
 
 /* Large devices (desktops, less than 1200px)  */

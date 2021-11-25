@@ -53,6 +53,10 @@
         min-height: 213px !important;
         max-height: 213px !important;
     }
+    
+    .newsTabs li.nav-item {
+        font-size: .77778rem !important;
+    }
 
 }
 

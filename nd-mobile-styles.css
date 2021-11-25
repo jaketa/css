@@ -44,6 +44,10 @@
 
 /* X-Small devices (portrait phones, less than 576px)  */
 @media (max-width: 575.98px) {
+    .Feature-Image {
+        min-height: 213px !important;
+        max-height: 213px !important;
+    }
 
 }
 

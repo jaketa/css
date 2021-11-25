@@ -156,9 +156,12 @@
     .Mobile-TItle-Container {
     display: grid !important;
 }
-    .Mobile-TItle-Container .title .label-container {
+    .Mobile-TItle-Container.title .label-container {
     font-size: 1.77778rem !important;
 }
+    .Desktop-Title-Container {
+        display: none !important;
+    }
 
 }
 

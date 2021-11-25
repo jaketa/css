@@ -43,6 +43,10 @@
 .Mobile-Bio-Tabs {
     display: none;
 }
+
+.Mobile-TItle-Container {
+    display: none;
+}
     
 
 /* No media query necessary for xs breakpoint as it's effectively @media (min-width: 0) */
@@ -148,6 +152,13 @@
     .Desktop-Socket-Container {
         display: none !important;
     }
+    
+    .Mobile-TItle-Container {
+    display: grid !important;
+}
+    .Mobile-TItle-Container .title .label-container {
+    font-size: 1.77778rem !important;
+}
 
 }
 

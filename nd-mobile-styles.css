@@ -134,6 +134,10 @@
     .Desktop-Socket-Container {
         display: none !important;
     }
+    
+    .Desktop-Hero-Container_Home .heading-text .label-container {
+        font-size: 3rem !important;
+    }
 }
 
 /* Large devices (desktops, less than 1200px)  */

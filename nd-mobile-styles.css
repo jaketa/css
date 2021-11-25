@@ -142,6 +142,9 @@
     .Desktop-Navigation {
     font-size: .8rem;
 }
+    .topBar .label-container {
+        font-size: .8rem !important;
+    }
 
 }
 

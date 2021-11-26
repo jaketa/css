@@ -56,6 +56,10 @@
 .Mobile-TItle-Container {
     display: none;
 }
+
+.Mobile-Share-Button {
+    display: none;
+}
     
 
 /* No media query necessary for xs breakpoint as it's effectively @media (min-width: 0) */
@@ -190,6 +194,14 @@
 .Mobile-Bio-Name {
     display: grid !important;
 }
+    
+    .Mobile-Share-Button {
+        display: grid !important;
+    }
+    
+    .Desktop-Share-Button {
+        display: none !important;
+    }
 
 }
 

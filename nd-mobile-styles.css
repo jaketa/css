@@ -170,30 +170,30 @@
     }
     
     .Mobile-TItle-Container {
-    display: grid !important;
-}
+        display: grid !important;
+    }
     .title .label-container {
-    font-size: 1.77778rem !important;
-}
+        font-size: 1.77778rem !important;
+    }
     .Desktop-Title-Container {
         display: none !important;
     }
     
     .Desktop-Bio-Title {
-    display: none !important;
-}
+        display: none !important;
+    }
 
-.Desktop-Bio-Name {
-    display: none !important;
-}
+    .Desktop-Bio-Name {
+        display: none !important;
+    }
     
     .Mobile-Bio-Title {
-    display: grid !important;
-}
+        display: grid !important;
+    }
 
-.Mobile-Bio-Name {
-    display: grid !important;
-}
+    .Mobile-Bio-Name {
+     display: grid !important;
+    }
     
     .Mobile-Share-Button {
         display: grid !important;

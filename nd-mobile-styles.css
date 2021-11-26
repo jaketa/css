@@ -60,6 +60,10 @@
 .Mobile-Share-Button {
     display: none;
 }
+
+.Mobile-Bio-Container {
+    display: none;
+}
     
 
 /* No media query necessary for xs breakpoint as it's effectively @media (min-width: 0) */
@@ -73,6 +77,13 @@
     
     .newsTabs li.nav-item {
         font-size: .77778rem !important;
+    }
+    
+    .Mobile-Bio-Container {
+    display: grid !important;
+}
+    .Desktop-Bio-Container {
+        display: none !important;
     }
 
 }

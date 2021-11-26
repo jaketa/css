@@ -72,6 +72,9 @@
     .Mobile-Bio-Tabs {
         display: grid !important;
     }
+    .Mini-Menu {
+        display: none !important!;
+    }
 }
 
 /* Medium devices (tablets, less than 992px)  */

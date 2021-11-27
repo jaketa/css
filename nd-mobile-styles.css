@@ -134,6 +134,10 @@
         display: none !important;
     }
     
+    .Desktop-Hero-Container_Cash_Out {
+        display: none !important;
+    }
+    
     .Mobile-Hero-Container_Home {
         display: grid !important;
     }

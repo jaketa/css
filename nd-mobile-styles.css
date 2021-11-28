@@ -21,6 +21,10 @@
     display: none;
 }
 
+.Mobile-Hero-Container_Cash_Out {
+    display: none;
+}
+
 .Mobile-Feature-Container {
     display: none;
 }
@@ -136,6 +140,10 @@
     
     .Desktop-Hero-Container_Cash_Out {
         display: none !important;
+    }
+    
+    .Mobile-Hero-Container_Cash_Out {
+        display: grid !important;
     }
     
     .Mobile-Hero-Container_Home {

@@ -76,7 +76,7 @@
 .List ul {
     list-style: disc;
     padding: 0 20px;
-    line-height: 1.33;
+    line-height: 1.33 !important;
 }
     
 

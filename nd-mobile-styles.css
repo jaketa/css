@@ -72,6 +72,12 @@
 .Frame > div {
     background-color: transparent !important;
 }
+
+.List ul {
+    list-style: disc;
+    padding: 0 20px;
+    line-height: 1.33;
+}
     
 
 /* No media query necessary for xs breakpoint as it's effectively @media (min-width: 0) */

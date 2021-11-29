@@ -82,6 +82,10 @@
 .Mobile-CashOut-Calc-Container {
     display: none;
 }
+
+.Mobile-FAQ-Container {
+    display: none;
+}
     
 
 /* No media query necessary for xs breakpoint as it's effectively @media (min-width: 0) */
@@ -245,6 +249,14 @@
     }
     
     .Desktop-CashOut-Calc-Container {
+        display: none !important;
+    }
+    
+    .Mobile-FAQ-Container {
+        display: grid !important;
+    }
+    
+    .Desktop-FAQ-Container {
         display: none !important;
     }
 

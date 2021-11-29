@@ -92,17 +92,17 @@
     }
 
 /* START GET STARTED WIZARD */
-.get-started-wizard .radio-wrapper {
+.Get-Started-Wizard .radio-wrapper {
     flex-direction: row !important;
     display: grid !important;
     grid-template-columns: 1fr 1fr 1fr 1fr !important;
 }
 
-.get-started-wizard .input-wrapper {
+.Get-Started-Wizard .input-wrapper {
     align-items: center !important;
 }
 
-.get-started-wizard .input-wrapper .field-label label {
+.Get-Started-Wizard .input-wrapper .field-label label {
     font-size: 40px;
     color: #101010;
     line-height: 48px;

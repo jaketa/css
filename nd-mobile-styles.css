@@ -78,6 +78,10 @@
     padding: 0 20px;
     line-height: 1.33 !important;
 }
+
+.Mobile-CashOut-Calc-Container {
+    display: none;
+}
     
 
 /* No media query necessary for xs breakpoint as it's effectively @media (min-width: 0) */
@@ -235,6 +239,14 @@
     .Desktop-Share-Button {
         display: none !important;
     } 
+    
+    .Mobile-CashOut-Calc-Container {
+        display: grid !important;
+    }
+    
+    .Desktop-CashOut-Calc-Container {
+        display: none !important;
+    }
 
 }
 

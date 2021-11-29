@@ -86,6 +86,10 @@
 .Mobile-FAQ-Container {
     display: none;
 }
+
+.Mobile-Hero-Container_Refi {
+        display: none;
+    }
     
 
 /* No media query necessary for xs breakpoint as it's effectively @media (min-width: 0) */
@@ -258,6 +262,14 @@
     
     .Desktop-FAQ-Container {
         display: none !important;
+    }
+    
+    .Desktop-Hero-Container_Refi {
+        display: none !important;
+    }
+    
+    .Mobile-Hero-Container_Refi {
+        display: grid !important;
     }
 
 }

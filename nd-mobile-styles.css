@@ -107,6 +107,7 @@
     color: #101010;
     line-height: 48px;
     font-family: "GT Walsheim Pro Bold";
+    text-transform: none !important;
 }
 /* END GET STARTED WIZARD */
 

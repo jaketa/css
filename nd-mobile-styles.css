@@ -113,6 +113,10 @@
     display: none !important;
 }
 
+.Get-Started-Wizard .label-container {
+    justify-content: center;
+}
+
 .Get-Started-Wizard .radio-wrapper .custom-control .custom-control-label {
     width: 100%;
     text-align: center;

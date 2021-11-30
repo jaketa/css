@@ -104,7 +104,12 @@
     border-radius: 100px;
     box-shadow: 1px 4px 5px 0 rgb(0 0 0 / 10%);
     padding-left: 0;
-    margin: 1rem;
+    margin: 0 1rem;
+}
+
+.Get-Started-Wizard .radio-wrapper .custom-control .custom-control-label::before, .Get-Started-Wizard .radio-wrapper .custom-control .custom-control-label::after {
+    width: 100%;
+    text-align: center;
 }
 
 .Get-Started-Wizard .input-wrapper {

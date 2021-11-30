@@ -103,7 +103,6 @@
     padding-left: 0;
     margin: 0 1rem;
     display: table;
-    border: 3px solid #ccc;
     border-radius: 100px;
     box-shadow: 1px 4px 5px 0 rgb(0 0 0 / 10%);
 }
@@ -122,6 +121,10 @@
     display: table-cell;
     vertical-align: middle;
     border-radius: 100px;
+}
+
+.Get-Started-Wizard input[type="radio"] {
+    border: 3px solid #ccc;
 }
 
 .Get-Started-Wizard input[type="radio"]:checked + label {

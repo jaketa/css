@@ -107,10 +107,6 @@
     box-shadow: 1px 4px 5px 0 rgb(0 0 0 / 10%);
 }
 
-.Get-Started-Wizard .radio-wrapper .custom-control:hover {
-    border: 3px solid #0378d5 !important;
-}
-
 .Get-Started-Wizard .radio-wrapper .custom-control .custom-control-label {
     width: 100%;
     text-align: center;
@@ -121,6 +117,10 @@
     display: table-cell;
     vertical-align: middle;
     border-radius: 100px;
+}
+
+.Get-Started-Wizard input[type="radio"]:hover {
+    border: 3px solid #0378d5 !important;
 }
 
 .Get-Started-Wizard input[type="radio"] + label {

@@ -183,6 +183,7 @@
 
 .Get-Started-Wizard .action-buttons {
     flex-direction: column-reverse;
+    font-family: "GT Walsheim Pro Bold" !important;
 }
 
 .Get-Started-Wizard .action-buttons > div {

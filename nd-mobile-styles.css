@@ -125,6 +125,7 @@
 
 .Get-Started-Wizard input[type="radio"]:checked + label {
     border: 5px solid #0378d5;
+    border-radius: 100px;
 }
 
 .Get-Started-Wizard .radio-wrapper .custom-control .custom-control-label::before,

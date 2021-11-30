@@ -150,7 +150,7 @@
     left: 50%;
     margin-left: -20px !important;
     background-color: #ffffff;
-    background-image: url('/api/datasource/app:avzYIaihyDjXaRt3rT3xS:dataSources:67d3af54-8cd4-4790-943d-f6619c9cfb6c/file/assets/icon-check-with-shadow.png');
+    background-image: url('https://newday.polystack.run/api/datasource/app:avzYIaihyDjXaRt3rT3xS:dataSources:67d3af54-8cd4-4790-943d-f6619c9cfb6c/file/assets/icon-check-with-shadow.png');
     background-position: 2px 2px;
     background-size: 36px 36px;
 }

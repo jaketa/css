@@ -195,7 +195,7 @@
     margin: 0 auto !important;
 }
 
-.Get-Started-Wizard .card-body > div > div {
+.Get-Started-Wizard .card-body > div > div:nth-child(1) {
     grid-column: 1 / span 2;
 }
 /* END GET STARTED WIZARD */

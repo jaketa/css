@@ -138,6 +138,11 @@
     content: '';
     border: 3px solid #00b1ff;
     box-shadow: 2px 2px 4px rgb(0 0 0 / 16%);
+    width: 44px;
+    height: 44px;
+    border-radius: 50%;
+    top: -22px;
+    left: 50%;
 }
 
 .Get-Started-Wizard .radio-wrapper .custom-control .custom-control-input {

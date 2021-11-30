@@ -98,6 +98,12 @@
     grid-template-columns: 1fr 1fr 1fr 1fr !important;
 }
 
+.Get-Started-Wizard .radio-wrapper .custom-control {
+    height: 75px;
+    border: 3px solid #ccc;
+    border-radius: 100px;
+}
+
 .Get-Started-Wizard .input-wrapper {
     align-items: center !important;
 }

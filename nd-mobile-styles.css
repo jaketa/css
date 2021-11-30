@@ -91,23 +91,6 @@
         display: none;
     }
 
-.iconList li {
-    background: url('https://www.newdayusa.com/Content/images/CheckMark.png') no-repeat left center;
-    height: 40px;
-    padding-top: 1px;
-    padding-left: 3rem;
-    margin-left: 0;
-    margin-bottom: 1rem;
-    list-style: none;
-}
-
-.iconList ul {
-    list-style-type: none;
-    padding: 0;
-    margin: 0;
-    line-height: 2rem;
-}
-
 /* START GET STARTED WIZARD */
 .Get-Started-Wizard .radio-wrapper {
     flex-direction: row !important;

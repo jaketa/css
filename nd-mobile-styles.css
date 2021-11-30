@@ -187,6 +187,7 @@
 
 .Get-Started-Wizard .action-buttons > div {
     width: 10rem !important;
+    margin: 0 auto !important;
 }
 /* END GET STARTED WIZARD */
 

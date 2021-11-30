@@ -97,12 +97,13 @@
     display: grid !important;
     grid-auto-flow: column;
     grid-auto-columns: 245px;
+    grid-column-gap: 1em;
 }
 
 .Get-Started-Wizard .radio-wrapper .custom-control {
     height: 75px;
-    padding-left: 0;
-    margin: 0 1rem;
+    padding: 0;
+    margin: 0;
     display: table;
     border-radius: 100px;
 }

@@ -139,7 +139,7 @@
 }
 
 .Get-Started-Wizard .radio-wrapper .custom-control .custom-control-label::before {
-    content: 'TEST' !important;
+    content: '';
     box-shadow: 10px 10px 10px black !important;
     display: block !important;
 }

@@ -135,13 +135,9 @@
 
 .Get-Started-Wizard .radio-wrapper .custom-control .custom-control-label::before,
 .Get-Started-Wizard .radio-wrapper .custom-control .custom-control-label::after {
-    display: none;
-}
-
-.Get-Started-Wizard .radio-wrapper .custom-control .custom-control-label::before {
     content: '';
-    box-shadow: 10px 10px 10px black !important;
-    display: block !important;
+    border: 3px solid #00b1ff;
+    box-shadow: 2px 2px 4px rgb(0 0 0 / 16%);
 }
 
 .Get-Started-Wizard .radio-wrapper .custom-control .custom-control-input {

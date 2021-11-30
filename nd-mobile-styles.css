@@ -95,7 +95,8 @@
 .Get-Started-Wizard .radio-wrapper {
     flex-direction: row !important;
     display: grid !important;
-    grid-template-columns: 1fr 1fr 1fr 1fr !important;
+    grid-auto-flow: column;
+    grid-auto-columns: minmax(0, 1fr);
 }
 
 .Get-Started-Wizard .radio-wrapper .custom-control {

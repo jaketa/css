@@ -123,6 +123,10 @@
     vertical-align: middle;
 }
 
+.Get-Started-Wizard input[type="radio"]:checked + label {
+    border: 5px solid #0378d5;
+}
+
 .Get-Started-Wizard .radio-wrapper .custom-control .custom-control-label::before,
 .Get-Started-Wizard .radio-wrapper .custom-control .custom-control-label::after {
     display: none;

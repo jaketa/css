@@ -133,8 +133,8 @@
     box-shadow: none !important;
 }
 
-.Get-Started-Wizard .radio-wrapper .custom-control .custom-control-label::before input[type="radio"]:checked + label,
-.Get-Started-Wizard .radio-wrapper .custom-control .custom-control-label::after input[type="radio"]:checked + label {
+.Get-Started-Wizard .radio-wrapper .custom-control .custom-control-label input[type="radio"]:checked + label::before,
+.Get-Started-Wizard .radio-wrapper .custom-control .custom-control-label  input[type="radio"]:checked + label::after{
     content: '';
     border: 3px solid #00b1ff;
     box-shadow: 2px 2px 4px rgb(0 0 0 / 16%);

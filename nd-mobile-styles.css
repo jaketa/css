@@ -123,8 +123,8 @@
     border-radius: 100px;
 }
 
-.Get-Started-Wizard input[type="radio"] {
-    border: 3px solid #ccc;
+.Get-Started-Wizard input[type="radio"] + label {
+    border: 3px solid #ccc !important;
 }
 
 .Get-Started-Wizard input[type="radio"]:checked + label {

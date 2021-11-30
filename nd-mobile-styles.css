@@ -139,8 +139,9 @@
 }
 
 .Get-Started-Wizard .radio-wrapper .custom-control .custom-control-label label::before {
-    content: 'TEST';
-    box-shadow: 10px 10px 10px black;
+    content: 'TEST' !important;
+    box-shadow: 10px 10px 10px black !important;
+    display: block !important;
 }
 
 .Get-Started-Wizard .radio-wrapper .custom-control .custom-control-input {

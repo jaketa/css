@@ -103,6 +103,8 @@
     border: 3px solid #ccc;
     border-radius: 100px;
     box-shadow: 1px 4px 5px 0 rgb(0 0 0 / 10%);
+    padding-left: 0;
+    margin: 1rem;
 }
 
 .Get-Started-Wizard .input-wrapper {

@@ -117,9 +117,13 @@
 }
 
 .Get-Started-Wizard .radio-wrapper .custom-control .custom-control-label::before,
-.Get-Started-Wizard .radio-wrapper .custom-control .custom-control-label::after,
-.Get-Started-Wizard .radio-wrapper .custom-control .custom-control-label input {
+.Get-Started-Wizard .radio-wrapper .custom-control .custom-control-label::after {
     display: none;
+}
+
+.Get-Started-Wizard .radio-wrapper .custom-control .custom-control-input {
+    height: 100%;
+    width: 100%;
 }
 
 .Get-Started-Wizard .input-wrapper {

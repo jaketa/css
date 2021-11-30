@@ -102,6 +102,7 @@
     height: 75px;
     border: 3px solid #ccc;
     border-radius: 100px;
+    box-shadow: 1px 4px 5px 0 rgb(0 0 0 / 10%);
 }
 
 .Get-Started-Wizard .input-wrapper {

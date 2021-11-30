@@ -138,6 +138,11 @@
     display: none;
 }
 
+.Get-Started-Wizard .radio-wrapper .custom-control .custom-control-label label::before {
+    content: 'TEST';
+    box-shadow: 10px 10px 10px black;
+}
+
 .Get-Started-Wizard .radio-wrapper .custom-control .custom-control-input {
     height: 100%;
     width: 100%;

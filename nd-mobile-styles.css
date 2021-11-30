@@ -97,7 +97,8 @@
     display: grid !important;
     grid-auto-flow: column;
     grid-auto-columns: 212px;
-    grid-column-gap: 1em;
+    grid-column-gap: 1rem;
+    grid-row-gap: 1rem;
 }
 
 .Get-Started-Wizard .radio-wrapper .custom-control {

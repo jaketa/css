@@ -96,7 +96,7 @@
     flex-direction: row !important;
     display: grid !important;
     grid-auto-flow: column;
-    grid-auto-columns: 228px;
+    grid-auto-columns: 212px;
     grid-column-gap: 1em;
 }
 

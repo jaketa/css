@@ -104,7 +104,6 @@
     margin: 0 1rem;
     display: table;
     border-radius: 100px;
-    box-shadow: 1px 4px 5px 0 rgb(0 0 0 / 10%);
 }
 
 .Get-Started-Wizard .radio-wrapper .custom-control .custom-control-label {
@@ -125,6 +124,7 @@
 
 .Get-Started-Wizard input[type="radio"] + label {
     border: 3px solid #ccc !important;
+    box-shadow: 1px 4px 5px 0 rgb(0 0 0 / 10%);
 }
 
 .Get-Started-Wizard input[type="radio"]:checked + label {

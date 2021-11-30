@@ -106,6 +106,10 @@
     border-radius: 100px;
 }
 
+.Get-Started-Wizard .indicator-container {
+    display: none !important;
+}
+
 .Get-Started-Wizard .radio-wrapper .custom-control .custom-control-label {
     width: 100%;
     text-align: center;

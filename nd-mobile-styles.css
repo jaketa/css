@@ -105,6 +105,7 @@
     box-shadow: 1px 4px 5px 0 rgb(0 0 0 / 10%);
     padding-left: 0;
     margin: 0 1rem;
+    display: table;
 }
 
 .Get-Started-Wizard .radio-wrapper .custom-control:hover {
@@ -118,6 +119,8 @@
     font-weight: bold;
     font-family: "GT Walsheim Pro Bold";
     color: #101010;
+    display: table-cell;
+    vertical-align: middle;
 }
 
 .Get-Started-Wizard .radio-wrapper .custom-control .custom-control-label::before,

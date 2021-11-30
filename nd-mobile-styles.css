@@ -107,6 +107,11 @@
     margin: 0 1rem;
 }
 
+.Get-Started-Wizard .radio-wrapper .custom-control .custom-control-label {
+    width; 100%;
+    text-align: center;
+}
+
 .Get-Started-Wizard .radio-wrapper .custom-control .custom-control-label::before,
 .Get-Started-Wizard .radio-wrapper .custom-control .custom-control-label::after {
     display: none;

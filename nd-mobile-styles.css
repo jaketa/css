@@ -107,6 +107,10 @@
     margin: 0 1rem;
 }
 
+.Get-Started-Wizard .radio-wrapper .custom-control:hover {
+    border-color: #0378d5;
+}
+
 .Get-Started-Wizard .radio-wrapper .custom-control .custom-control-label {
     width: 100%;
     text-align: center;

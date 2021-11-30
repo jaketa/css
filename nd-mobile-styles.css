@@ -106,7 +106,7 @@
 }
 
 .Get-Started-Wizard .radio-wrapper .custom-control:hover {
-    border-color: #0378d5;
+    border-color: #0378d5 !important;
 }
 
 .Get-Started-Wizard .radio-wrapper .custom-control .custom-control-label {

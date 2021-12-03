@@ -108,7 +108,7 @@
     margin-right: 10px !important;
 }
 
-.Mini-Navigation .rptContainer::after {
+.Mini-Navigation-Item::after {
     content: "|";
     color: #e0e0e0;
     padding: 0 0.38889rem;

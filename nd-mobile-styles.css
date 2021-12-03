@@ -95,17 +95,13 @@
     text-decoration: underline !important;
 }
 
-.Mini-Navigation {
-    grid-area: auto / 3 / auto / span 20;
-}
-
 .Mini-Navigation > div {
     display: inline-grid;
     grid-template-columns: auto auto;
 }
 
 .Mini-Navigation > div > div {
-    grid-template-columns: repeat(3, auto);
+    grid-template-columns: repeat(3, auto) !important;
 }
 
 .Mini-Navigation .rptContainer {

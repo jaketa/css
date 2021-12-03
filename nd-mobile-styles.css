@@ -104,7 +104,7 @@
     grid-template-columns: repeat(3, auto) !important;
 }
 
-.Mini-Navigation > div > div::after {
+.Mini-Navigation > div > div > div:nth-child(1)::after {
     content: "|";
     color: #e0e0e0;
     padding: 0 0.38889rem;

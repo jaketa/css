@@ -108,6 +108,12 @@
     margin-right: 10px !important;
 }
 
+.Mini-Navigation .rptContainer::after {
+    content: "|";
+    color: #e0e0e0;
+    padding: 0 0.38889rem;
+}
+
 /* START MOBILE NAV */
 .mobileNav {
     box-shadow: 0 0 40px 0 rgb(0 0 0 / 30%);

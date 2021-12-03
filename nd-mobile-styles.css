@@ -283,6 +283,9 @@
     .Mini-Menu {
         display: none !important;
     }
+    .Mini-Navigation {
+        display: none !important;
+    }
 }
 
 /* Medium devices (tablets, less than 992px)  */

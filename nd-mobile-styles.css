@@ -104,7 +104,7 @@
     grid-template-columns: repeat(3, auto) !important;
 }
 
-.Mini-Navigation > div > span::after {
+.Mini-Navigation-Item span::after {
     content: "|";
     color: #e0e0e0;
     padding: 0 0.38889rem;

@@ -89,6 +89,12 @@
 .Mobile-Hero-Container_Refi {
         display: none;
     }
+
+.Mini-Navigation a {
+    color: #0378d5 !important;
+    text-decoration: underline !important;
+}
+
 /* START MOBILE NAV */
 .mobileNav {
     box-shadow: 0 0 40px 0 rgb(0 0 0 / 30%);

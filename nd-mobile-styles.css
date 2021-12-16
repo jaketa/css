@@ -101,7 +101,7 @@
 }
 
 .Mini-Navigation > div > div {
-    grid-template-columns: repeat(3, auto) !important;
+    grid-template-columns: repeat(4, auto) !important;
 }
 
 .Mini-Navigation-Item span::after {

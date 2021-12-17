@@ -114,6 +114,10 @@
     padding: 0 0.38889rem;
 }
 
+.Mini-Navigation-Footer-Item span::after {
+    padding: 0 0.38889rem;
+}
+
 /* START MOBILE NAV */
 .mobileNav {
     box-shadow: 0 0 40px 0 rgb(0 0 0 / 30%);

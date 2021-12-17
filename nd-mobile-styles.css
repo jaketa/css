@@ -115,6 +115,7 @@
 }
 
 .Mini-Navigation-Footer-Item span::after {
+    content: '';
     padding: 0 0.38889rem;
 }
 

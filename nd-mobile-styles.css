@@ -95,12 +95,16 @@
     text-decoration: underline !important;
 }
 
-.Mini-Navigation > div {
+.Mini-Navigation-Footer a {
+    text-decoration: none !important;
+}
+
+.Mini-Navigation > div, .Mini-Navigation-Footer > div {
     display: inline-grid;
     grid-template-columns: auto auto;
 }
 
-.Mini-Navigation > div > div {
+.Mini-Navigation > div > div, .Mini-Navigation-Footer > div > div {
     grid-template-columns: repeat(4, auto) !important;
 }
 

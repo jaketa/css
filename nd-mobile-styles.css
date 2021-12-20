@@ -99,12 +99,12 @@
     text-decoration: none !important;
 }
 
-.Mini-Navigation > div, .Mini-Navigation-Footer > div {
+.Mini-Navigation > div, .Mini-Navigation-Footer > div, .Mini-Navigation-Mobile-Footer a {
     display: inline-grid;
     grid-template-columns: auto auto;
 }
 
-.Mini-Navigation > div > div, .Mini-Navigation-Footer > div > div {
+.Mini-Navigation > div > div, .Mini-Navigation-Footer > div > div, .Mini-Navigation-Mobile-Footer > div > div {
     grid-template-columns: repeat(4, auto) !important;
 }
 
@@ -114,7 +114,7 @@
     padding: 0 0.38889rem;
 }
 
-.Mini-Navigation-Footer-Item span::after {
+.Mini-Navigation-Footer-Item span::after, .Mini-Navigation-Mobile-Footer-Item span::after {
     content: '';
     padding: 0 0.38889rem;
 }

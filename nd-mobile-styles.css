@@ -28,6 +28,10 @@
     display: none;
 }
 
+.Mobile-Footer-Container {
+    display: none;
+}
+
 .Mobile-Spacer {
     display: none;
 }
@@ -117,6 +121,10 @@
 .Mini-Navigation-Footer-Item span::after, .Mini-Navigation-Mobile-Footer-Item span::after {
     content: '';
     padding: 0 0.38889rem;
+}
+
+.RepeatContainer-Mobile_Footer {
+    text-align: center !important;
 }
 
 /* START MOBILE NAV */
@@ -383,6 +391,10 @@
         width: 100% !important;
         height: 60px !important;
         box-shadow: 0 0 40px 0 rgb(0 0 0 / 30%) !important;
+    }
+    
+    .Mobile-Footer-Container {
+        display: grid !important;
     }
     
     .CTA-Button {

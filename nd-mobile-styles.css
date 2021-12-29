@@ -52,6 +52,10 @@
     display: none !important;
 }
 
+.Mobile-Only {
+    display: none;
+}
+
 .Mobile-Bio-Name {
     display: none !important;
 }
@@ -323,6 +327,10 @@
     }
     .Mini-Navigation {
         display: none !important;
+    }
+    
+    .Mobile-Only {
+        display: grid !important;
     }
 }
 

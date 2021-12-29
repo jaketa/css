@@ -329,15 +329,15 @@
         display: none !important;
     }
     
-    .Mobile-Only {
-        display: grid !important;
-    }
 }
 
 /* Medium devices (tablets, less than 992px)  */
 @media (max-width: 991.98px) {
     .Desktop-Only {
         display: none !important;
+    }
+    .Mobile-Only {
+        display: grid !important;
     }
     .topBar {
         display: none !important;

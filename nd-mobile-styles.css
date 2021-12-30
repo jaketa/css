@@ -267,6 +267,10 @@
 }
 */
 
+.Get-Started-Wizard .input-wrapper .field-label {
+    margin: 0 auto !important;
+}
+
 .Get-Started-Wizard .input-wrapper .field-label label {
     color: #101010;
     line-height: 48px;

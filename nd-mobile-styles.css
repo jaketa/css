@@ -263,9 +263,10 @@
     width: 100%;
 }
 
-.Get-Started-Wizard .input-wrapper {
+/*.Get-Started-Wizard .input-wrapper {
     align-items: center !important;
 }
+*/
 
 .Get-Started-Wizard .input-wrapper .field-label label {
     font-size: 40px;

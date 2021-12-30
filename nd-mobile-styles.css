@@ -267,7 +267,7 @@
 }
 */
 
-.Get-Started-Wizard .input-wrapper .field-label {
+.Get-Started-Wizard .input-wrapper .field-label, .Get-Started-Wizard .input-wrapper .radio-wrapper {
     margin: 0 auto !important;
 }
 

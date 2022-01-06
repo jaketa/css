@@ -122,6 +122,10 @@
     padding: 0 0.38889rem;
 }
 
+.Mini-Navigation-Item span {
+    overflow: visible !important;
+}
+
 .Mini-Navigation-Footer-Item span::after, .Mini-Navigation-Mobile-Footer-Item span::after {
     content: '';
     padding: 0 0.38889rem;

@@ -487,6 +487,11 @@
         display: grid !important;
     }
     
+    .Mobile-FAQ-Container .Accordion > div > div > div:nth-child(2) > div.rc-collapse-header > div:nth-child(2) > i {
+        display: none !important;
+    }
+        
+    
     .Desktop-FAQ-Container {
         display: none !important;
     }

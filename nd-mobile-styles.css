@@ -112,7 +112,7 @@
     grid-template-columns: auto auto;
 }
 
-.Mini-Navigation > div > div, .Tab-Navigation-Learning-Center > div > div, .Mini-Navigation-Footer > div > div, .Mini-Navigation-Mobile-Footer > div > div {
+.Mini-Navigation > div > div, .Mini-Navigation-Footer > div > div, .Mini-Navigation-Mobile-Footer > div > div {
     grid-template-columns: repeat(4, auto) !important;
 }
 
@@ -126,6 +126,10 @@
     border-bottom: 2px solid transparent;
     padding-bottom: 0.27778rem !important;
     overflow: visible !important;
+}
+
+.Tab-Navigation-Learning-Center > div > div {
+    grid-template-columns: repeat(6, auto) !important;
 }
 
 .Tab-Navigation-Learning-Center-Item span:hover {

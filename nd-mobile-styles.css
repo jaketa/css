@@ -107,12 +107,12 @@
     text-decoration: none !important;
 }
 
-.Mini-Navigation > div, .Mini-Navigation-Footer > div, .Mini-Navigation-Mobile-Footer a {
+.Mini-Navigation > div, .Tab-Navigation-Learning-Center > div, .Mini-Navigation-Footer > div, .Mini-Navigation-Mobile-Footer a {
     display: inline-grid;
     grid-template-columns: auto auto;
 }
 
-.Mini-Navigation > div > div, .Mini-Navigation-Footer > div > div, .Mini-Navigation-Mobile-Footer > div > div {
+.Mini-Navigation > div > div, .Tab-Navigation-Learning-Center > div > div, .Mini-Navigation-Footer > div > div, .Mini-Navigation-Mobile-Footer > div > div {
     grid-template-columns: repeat(4, auto) !important;
 }
 
@@ -120,6 +120,17 @@
     content: "|";
     color: #e0e0e0;
     padding: 0 0.38889rem;
+}
+
+.Tab-Navigation-Learning-Center-Item {
+    border-bottom: 2px solid transparent;
+    padding-bottom: 0.27778rem;
+}
+
+.Tab-Navigation-Learning-Center-Item:hover {
+    color: #005696;
+    border-bottom: 2px solid #005696;
+    padding-bottom: 0.27778rem;
 }
 
 .Mini-Navigation-Item span, .Mini-Navigation-Footer-Item span {

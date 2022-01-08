@@ -116,18 +116,18 @@
     grid-template-columns: repeat(4, auto) !important;
 }
 
-.Mini-Navigation-Item span::after {
+.Mini-Navigation-Item .label-container::after {
     content: "|";
     color: #e0e0e0;
     padding: 0 0.38889rem;
 }
 
-.Tab-Navigation-Learning-Center-Item {
+.Tab-Navigation-Learning-Center-Item span {
     border-bottom: 2px solid transparent;
-    padding-bottom: 0.27778rem;
+    padding-bottom: 0.27778rem !important;
 }
 
-.Tab-Navigation-Learning-Center-Item:hover {
+.Tab-Navigation-Learning-Center-Item span:hover {
     color: #005696;
     border-bottom: 2px solid #005696;
     padding-bottom: 0.27778rem;

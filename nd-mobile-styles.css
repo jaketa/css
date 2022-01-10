@@ -80,6 +80,10 @@
     background-color: transparent !important;
 }
 
+.Mobile-Review-Container .Frame > div {
+    background-color: #ffffff !important;
+}
+
 .Bulleted-List ul {
     list-style: disc;
     padding: 0 20px;

@@ -146,11 +146,6 @@
     overflow: visible !important;
 }
 
-.Mini-Navigation-Footer-Item span::after, .Mini-Navigation-Mobile-Footer-Item span::after {
-    content: '';
-    padding: 0 0.38889rem;
-}
-
 .RepeatContainer-Mobile_Footer {
     text-align: center !important;
 }

@@ -320,8 +320,8 @@
 /* X-Small devices (portrait phones, less than 576px)  */
 @media (max-width: 575.98px) {
     .Feature-Image {
-        min-height: 213px !important;
-        max-height: 213px !important;
+        min-height: 320px !important;
+        max-height: 320px !important;
     }
     
     .newsTabs li.nav-item {
